@@ -1,1 +1,1 @@
-# P4 Project
+# GDGOC Hasanuddin University Project
